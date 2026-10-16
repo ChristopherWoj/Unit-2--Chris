@@ -6,3 +6,4 @@ while num2 != 0:
     num1, num2 = num2, num1 % num2
 
 print("The GCF is:", num1)
+
